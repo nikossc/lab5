@@ -2,6 +2,8 @@
 
 using namespace std;
 
+/* Код лабораторной работы для ОПИ №5 */
+
 int main(){
     int i,j, res;
     int n;
